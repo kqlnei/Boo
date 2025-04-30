@@ -4,7 +4,7 @@
 
 
 
-プレイ動画(gif×3)//表示までちょっと時間かかります  
+プレイ動画(gif×4)//表示までちょっと時間かかります  
 ![プレイ動画(gif)](Demo/DemoMovie.gif)
 ![プレイ動画(gif)](Demo/DemoMovie%20(1).gif)
 ![プレイ動画(gif)](Demo/DemoMovie%20(2).gif)
